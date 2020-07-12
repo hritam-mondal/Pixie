@@ -1,2 +1,2 @@
 # Pixie
-E-Commerce application with MERN Stack
+An E-Commerce application with MERN Stack
