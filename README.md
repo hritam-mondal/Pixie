@@ -8,3 +8,4 @@ An E-Commerce application with MERN Stack
 - [Express](https://expressjs.com/)
 - [Mongoose](https://mongoosejs.com/)
 - [React](https://reactjs.org/)
+- [Stripe](https://stripe.com/)
